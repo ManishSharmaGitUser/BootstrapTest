@@ -1,0 +1,13 @@
+﻿.container-fluid {
+    border: 2px solid black;
+}
+
+.row{
+    border: 2px solid red;
+    background-color :green;
+}
+
+.stl {
+    border: 2px solid green;
+    background-color: white;
+}
