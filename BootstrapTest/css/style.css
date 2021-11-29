@@ -3,11 +3,31 @@
 }
 
 .row{
-    border: 2px solid red;
+    border: 3px solid red;
     background-color :green;
 }
 
 .stl {
     border: 2px solid green;
     background-color: white;
+}
+
+.container {
+    border: 5px solid black;
+}
+
+.pink{
+    background:pink;
+}
+.orange {
+    background: #f39c12;
+}
+.blue {
+    background: #4aa6ee;
+}
+.green {
+    background: yellowgreen;
+}
+.cyan{
+    background :darkturquoise;
 }

@@ -1,0 +1,59 @@
+﻿
+flexDirection Classes ----
+
+
+flex-row ---> applied on row div and shows div or other content in a row
+flex-row-reverse ---> applied on row div and shows div or other content in a reverse order in  row
+
+
+flex-column --->applied on row div and shows div or other content in a Column
+flex-column-reverse --->applied on row div and shows div or other content in a reverse order in  Column
+
+flex-wrap --> to wrap div (then shows in next line)
+flex-nowrap ---> no wraping will be done and in same line it will show divs 
+flex-wrap-reverse ---> wrap and reversed div
+
+flex-fill --->condt* --->can be applied on col class without css -->and it expands div to 100% width	
+
+
+d-none
+d-inline-block
+d-sm-block
+
+
+width classses : 
+
+
+w-25 ---25% width div
+ -->float-left
+ -->float-right
+      ->then use clearfix for div
+
+	  fixed-bottom --->
+	  fixed-top ----
+
+
+stick-top --->
+
+overflow-auto ---css class woks if height is given.
+
+In Each col and row class of css by default 15px margin are set in bootstrap
+so remove this please apply
+
+no-gutters in row class div
+
+
+py-lg-5 ----> works on lg and extra large( padding y-axis 5 rem)	
+      0  -->0px
+	  1===>0.25 rem
+	  2===>0.50 rem
+	  3===>1 rem
+	  4===>1.5 rem
+	  5===>3 rem
+
+
+
+
+Image website name -->https://unsplash.com/t/nature
+
+
