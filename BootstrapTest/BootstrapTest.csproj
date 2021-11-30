@@ -90,8 +90,15 @@
     <Content Include="First.html" />
     <Content Include="HorizontalAlignment.html" />
     <Content Include="Images\banner.jpg" />
+    <Content Include="js\bootstrap.bundle.js" />
+    <Content Include="js\bootstrap.bundle.min.js" />
+    <Content Include="js\bootstrap.esm.js" />
+    <Content Include="js\bootstrap.esm.min.js" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\bootstrap.min.js" />
     <Content Include="Note.txt" />
     <Content Include="Position.html" />
+    <Content Include="Text-Formatting.html" />
     <Content Include="Web.config" />
     <Content Include="Website.html" />
   </ItemGroup>
@@ -115,6 +122,12 @@
     <Content Include="css\bootstrap.min.css.map" />
     <Content Include="css\bootstrap.rtl.css.map" />
     <Content Include="css\bootstrap.rtl.min.css.map" />
+    <Content Include="js\bootstrap.bundle.js.map" />
+    <Content Include="js\bootstrap.bundle.min.js.map" />
+    <Content Include="js\bootstrap.esm.js.map" />
+    <Content Include="js\bootstrap.esm.min.js.map" />
+    <Content Include="js\bootstrap.js.map" />
+    <Content Include="js\bootstrap.min.js.map" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

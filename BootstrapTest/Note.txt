@@ -56,4 +56,53 @@ py-lg-5 ----> works on lg and extra large( padding y-axis 5 rem)
 
 Image website name -->https://unsplash.com/t/nature
 
+Text Align Classes
+
+ css						Bootstrap class
+ text-align:left ---->      text-left
+ text-align:right ---->     text-right
+ text-align:center ---->     text-center
+ text-align:justify ---->     text-justify
+
+ Text Transform Clases
+
+ text-transform:lowercase -----> text-lowercase
+ text-transform:uppercase -----> text-uppercase
+ text-transform:capitalize -----> text-capitalize
+
+
+ Font-weight classes
+
+ font-weight:bold ----->font-weight-bold
+ font-weight:bolder ----->font-weight-bolder
+ font-weight:300 ----->font-weight-light
+ font-weight:lighter ----->font-weight-lighter
+ font-weight:normal ----->font-weight-normal
+ font-style:italic ------>font-italic
+
+
+
+ we use text-reset class of bootstrap in anchor tag to remove its blue text color and it aplies parent div color.
+
+
+ text-break --to wrap a single long word
+ text-nowrap --->it do not wrap and overflows text form div
+ text-truncate ----like ellipsis makes extra long text to ...
+
+
+
+ list-unstyled --->removes li  list style
+
+ list-inline --->apply on ul and then in each li apply list-inline-item
+
+
+
+
+ user-select-all    ----->if click all text will get selected
+ user-select-auto   -----> normal  use as usual.
+ user-select-none   -----> user wont be able to select text
+
+
+
+
 
