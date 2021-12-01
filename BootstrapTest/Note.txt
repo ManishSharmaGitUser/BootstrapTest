@@ -103,6 +103,36 @@ Text Align Classes
  user-select-none   -----> user wont be able to select text
 
 
+ table --->btsrap table class
+ table-dark -->for dark heading
+ table-striped --->for alternate colored striped 
+ thead-light
+ table-hover
+ table-borderless
+ table-sm
+
+
+
+ table-responsive 
+  apply like this---
+                <div class="table-responsive">
+				  <table class="table">
+				  </table>
+ 
+ table-responsive-xl
+ table-responsive-lg
+ table-responsive-md
+ table-responsive-sm
+ 
+
+
+				</div>
+
+
+
+gx-* [0-5] gutters classes in bootstrap 5 applied on row and controls spacing in div of col class
+g-lg-4
+
 
 
 
