@@ -135,4 +135,21 @@ g-lg-4
 
 
 
+Breadcrumb
+
+
+Nav
+ nav-fill
+ nav-pill
+ nav-jsutified
+
+ ------Card Classes----
+ card-group
+ card-deck
+
+
+ class for masonry layout is --->card-column
+
+
+
 
